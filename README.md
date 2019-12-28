@@ -1,10 +1,10 @@
 # RMMVPlugin-Yanfly_TW
-Translation "Plugin Comment" to Chinese(Traditional) .
+Translation "Plugin Comment" to Chinese(Traditional).<br>
 本處放置 Yanfly 的翻譯中文插件「注釋」。<br>
 <br>
 購買插件本體 / Buy Plugin Pack<br>
 Yanfly Wiki [Yanfly Engine Plugins](http://www.yanfly.moe/wiki/Category:Yanfly_Engine_Plugins)<br>
-Yanfly itch.io [itch.io](https://yanflyengineplugins.itch.io/)<br>
+Yanfly [itch.io](https://yanflyengineplugins.itch.io/)<br>
        itch.io [Full Collection](https://yanflyengineplugins.itch.io/yanfly-engine-plugins-full-collection)<br>
        itch.io [Core & Options Pack](https://yanflyengineplugins.itch.io/core-options-pack)<br>
        itch.io [Battle Pack](https://yanflyengineplugins.itch.io/bundle-battle-pack)<br>
