@@ -4,6 +4,7 @@ Translation "Plugin Comment" to Chinese(Traditional).<br>
 <br>
 購買插件本體 / Buy Plugin Pack<br>
 Yanfly Wiki [Yanfly Engine Plugins](http://www.yanfly.moe/wiki/Category:Yanfly_Engine_Plugins)<br>
+Yamfly [Patreon](https://www.patreon.com/Yanfly)<br>
 Yanfly [itch.io](https://yanflyengineplugins.itch.io/)<br>
        itch.io [Full Collection](https://yanflyengineplugins.itch.io/yanfly-engine-plugins-full-collection)<br>
        itch.io [Core & Options Pack](https://yanflyengineplugins.itch.io/core-options-pack)<br>
